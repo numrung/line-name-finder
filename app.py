@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # 2. ส่วนหัวข้อและคำอธิบาย
-st.title("🔍 LINE Profile Search Tool")
+st.title("🔍 LINE Profile Search Tool R4")
 st.markdown("""
 เครื่องมือนี้ใช้สำหรับดึงข้อมูลชื่อโปรไฟล์จาก **LINE User ID** โดยคุณต้องมี **Channel Access Token** จาก LINE Developers Console
 """)
